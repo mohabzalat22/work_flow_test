@@ -1,5 +1,5 @@
 ## installation guide
-php arisan migrate
+php artisan migrate
 
 ## 
 seeding 
